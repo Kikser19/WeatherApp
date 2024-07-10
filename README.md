@@ -1,4 +1,4 @@
-### Weather App
+# Weather App
 Welcome to the Weather App repository! This application provides a 7-day weather forecast and includes features such as humidity and wind speed. It is built using Vue.js for the frontend and Firebase for the backend.
 
 ## Features
