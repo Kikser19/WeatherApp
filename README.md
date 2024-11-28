@@ -1,6 +1,9 @@
 # Weather App
 Welcome to the Weather App repository! This application provides a 7-day weather forecast and includes features such as humidity and wind speed. It is built using Vue.js for the frontend and Firebase for the backend.
 
+![weather app skrin](https://github.com/user-attachments/assets/f4b7cfc3-7dd5-45bd-9d8c-46ee3706caa2)
+
+
 ## Features
 7-Day Weather Forecast: View the weather forecast for the next seven days.
 Current Weather: See the current weather conditions.
